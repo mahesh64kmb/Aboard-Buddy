@@ -1,0 +1,1 @@
+{"ast":null,"code":"export * from './api.endpoints.config';","map":{"version":3,"mappings":"AAAA,cAAc,wBAAwB","names":[],"sourceRoot":"","sources":["C:\\Users\\saisu\\Downloads\\abroadbuddy-main\\abroadbuddy-main\\src\\app\\core\\config\\index.ts"],"sourcesContent":["export * from './api.endpoints.config';"]},"metadata":{},"sourceType":"module","externalDependencies":[]}
